@@ -2,7 +2,7 @@
   "name": "tombocard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brnohxz.github.io",
+  "homepage": "https://brnohxz.github.io/tombocard",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
